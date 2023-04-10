@@ -33,3 +33,4 @@ data/
 postgresql/pwfile
 tests/docker-compose.*.yml
 terraform-provider-postgresql
+changing_this_one_line_to_create_bc_branch_with_batch_changes
